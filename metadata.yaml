@@ -1,0 +1,34 @@
+_repo: Duel-on-Syrtis_32436
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32436-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anderson, Poul
+    alias: Anderson, Poul William
+    birthdate: 1926
+    deathdate: 2001
+    gutenberg_agent_id: '25203'
+    url: http://www.gutenberg.org/2009/agents/25203
+    wikipedia: http://en.wikipedia.org/wiki/Poul_Anderson
+description: What happens when hunters grow weary of pursuing traditional game? In
+  the future imagined by Poul Anderson in the story Duel on Syrtis, wealthy sportsman
+  Riordan has upped the stakes by traveling across the solar system to pursue an intelligent
+  creature that can match wits with him.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Duel on Syrtis
+url: http://www.gutenberg.org/ebooks/32436
